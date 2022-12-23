@@ -1,20 +1,14 @@
-- 👋 Hi, I’m @zubairahmed992
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 zubairahmed992/zubairahmed992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <a href="https://www.enes.software/">
+<!-- <a href="https://zupetek.com/">
 <img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
-    align="right" alt="logo devenes">
+    align="right" alt="logo zupe">
 </a> -->
 
 <a href="https://zupetek.com/">
-<img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
+<img src="icon/zupetek.webp" width="400" align="right" alt="logo zupete">
 </a>
 
 <p align="left">
@@ -22,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   Welcome to My GitHub World!
 </p>
 <p>
-   Here's Enes and I'm DevOps Platform Engineer
+   Here's Zubair Ahmed and I'm DevOps Platform Engineer
 </p>
 <p align="left">
   ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
@@ -36,12 +30,12 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <a href="https://www.instagram.com//" alt="Instagram">
     <img
-      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/enes.ai" />
+      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/zupetek" />
   </a>
 
   <a href="https://www.linkedin.com/in/surhio" alt="Linkedin">
     <img
-      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
+      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/zupetek" />
   </a>
 
   <a href="https://www.youtube.com/@zupetek" alt="Youtube">
@@ -51,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
   <a href="https://www.twitter.com/zupetek" alt="Twitter">
     <img
-      src="https://img.shields.io/badge/-Twitter-6610F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://www.twitter.com/thedevenes" />
+      src="https://img.shields.io/badge/-Twitter-6610F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://www.twitter.com/zupetek" />
   </a>
 
   <a href="https://medium.com/@cloudways.zubair/" alt="Medium">
