@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
     align="right" alt="logo devenes">
 </a> -->
 
-<a href="https://www.enes.software/">
+<a href="https://zupetek.com/">
 <img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
 </a>
 
@@ -34,27 +34,27 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="left">
-  <a href="https://www.instagram.com/enes.ai/" alt="Instagram">
+  <a href="https://www.instagram.com//" alt="Instagram">
     <img
       src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/enes.ai" />
   </a>
 
-  <a href="https://www.linkedin.com/in/devenes" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/surhio" alt="Linkedin">
     <img
       src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
   </a>
 
-  <a href="https://www.youtube.com/@cloudnativetr" alt="Youtube">
+  <a href="https://www.youtube.com/@zupetek" alt="Youtube">
     <img
       src="https://img.shields.io/badge/-Youtube-6610F2?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" />
   </a>
 
-  <a href="https://www.twitter.com/thedevenes" alt="Twitter">
+  <a href="https://www.twitter.com/zupetek" alt="Twitter">
     <img
       src="https://img.shields.io/badge/-Twitter-6610F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://www.twitter.com/thedevenes" />
   </a>
 
-  <a href="https://devenes.medium.com/" alt="Medium">
+  <a href="https://medium.com/@cloudways.zubair/" alt="Medium">
     <img
       src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF&link=https://devenes.medium.com/" />
   </a>
