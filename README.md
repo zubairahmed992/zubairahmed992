@@ -137,8 +137,7 @@ Proven ability to deliver **scalable, secure, cost-effective systems** and reduc
 ---
 
 ## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/zubairahmed992/zubairahmed992/output/github-contribution-grid-snake.svg)
-![Snake Zubair](https://github.com/zubairahmed992/zubairahmed992/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zubairahmed992/zubairahmed992/blob/main/dist/github-contribution-grid-snake.svg)
 
 
 
