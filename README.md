@@ -1,52 +1,32 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Zubair Ahmed 👋</h1>
-<h3 align="center">🚀 DevOps Platform Engineer | Automation Enthusiast | Cloud Innovator</h3>
+<h1 align="center">
+  <img src="./icon/hand.gif" width="30"> Hello World, I'm Zubair Ahmed
+</h1>
 
-<!-- Banner -->
 <p align="center">
   <a href="https://zupetek.com/">
-    <img src="icon/zupetek.webp" width="400" alt="Zupetek Logo">
+    <img src="icon/zupetek.webp" width="300" alt="Zupetek">
   </a>
 </p>
 
 ---
 
-### 💡 About Me
-- ☁️ **DevOps, Cloud, and Automation Specialist**
-- 🐳 Passionate about **Kubernetes, Docker, CI/CD Pipelines**
-- ⚙️ Skilled in **Linux, Ansible, Terraform, GitHub Actions**
-- 📈 Always learning and exploring **emerging tech trends**
-
----
-
-### 📬 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/surhio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.twitter.com/zupetek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.youtube.com/@zupetek"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
-  <a href="https://medium.com/@cloudways.zubair"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge"></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairahmed992&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairahmed992&layout=compact&theme=radical" height="180">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&lines=DevOps+Platform+Engineer;Cloud+%7C+Automation+%7C+K8s;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A">
 </p>
 
 ---
 
-### 🎯 Fun Stuff
-![Snake Animation](https://github.com/zubairahmed992/zubairahmed992/blob/output/github-contribution-grid-snake.svg)
+### 🛠 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-333?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-333?style=for-the-badge&logo=terraform&logoColor=623CE4)
+![Ansible](https://img.shields.io/badge/Ansible-333?style=for-the-badge&logo=ansible&logoColor=EE0000)
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairahmed992&theme=github_dark&show_icons=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairahmed992&layout=compact&theme=github_dark" height="180">
+</p>
