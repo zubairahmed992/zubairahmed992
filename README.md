@@ -1,18 +1,15 @@
-<h1 align="center">🚀 Zubair Ahmed</h1>
-<h3 align="center">DevOps Platform Engineer | Cloud Enthusiast | Tech Explorer</h3>
+<!-- Hero Section -->
+<h1 align="center">
+  <img src="icon/hand.gif" width="30"> Hey there, I'm <b>Zubair Ahmed</b>  
+</h1>
+<h3 align="center">🚀 DevOps Platform Engineer | Cloud Architect | Automation Enthusiast</h3>
 
----
+<p align="center">
+  <a href="https://zupetek.com/">
+    <img src="icon/zupetek.webp" width="350" alt="Zupetek Logo">
+  </a>
+</p>
 
-### 🌟 Highlights
-- 🔧 Expertise: DevOps, CI/CD, Kubernetes, Terraform, Ansible
-- 📈 Scaling & automating cloud infrastructure
-- 🏆 Open source contributions & community engagement
-- 📚 Sharing knowledge via Medium & YouTube
-
----
-
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surhio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/zupetek)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zupetek)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cloudways.zubair)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0CF7F1&center=true&vCenter=true&width=700&lines=I+Automate+Everything+%F0%9F%9A%80;Building+Scalable+Cloud+Platforms+%E2%98%81%EF%B8%8F;DevOps+is+Not+a+Job%2C+It's+a+Lifestyle">
+</p>
