@@ -3,40 +3,27 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"    # every 12 hours
-  workflow_dispatch:          # manual trigger
-  push:
-    branches:
-      - main                  # change if your default branch is 'master' or other
+  workflow_dispatch:          # allow manual trigger
 
 permissions:
-  contents: write             # allow committing back to repo
+  contents: write
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
-      - name: Generate snake SVG
-        uses: platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: zubairahmed992
-          output: output/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Show generated file (for debug)
-        run: |
-          ls -l output || true
-          file output/github-contribution-grid-snake.svg || true
-          echo "---- head of file ----"
-          head -n 5 output/github-contribution-grid-snake.svg || true
-
-      - name: Commit and push SVG
+      - name: Push Snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: "github-actions[bot]"
-          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
           message: "chore: update snake animation"
-          add: "output/github-contribution-grid-snake.svg"
+          add: "dist/github-contribution-grid-snake.svg"
