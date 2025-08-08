@@ -1,32 +1,18 @@
-<h1 align="center">
-  <img src="./icon/hand.gif" width="30"> Hello World, I'm Zubair Ahmed
-</h1>
-
-<p align="center">
-  <a href="https://zupetek.com/">
-    <img src="icon/zupetek.webp" width="300" alt="Zupetek">
-  </a>
-</p>
+<h1 align="center">🚀 Zubair Ahmed</h1>
+<h3 align="center">DevOps Platform Engineer | Cloud Enthusiast | Tech Explorer</h3>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&lines=DevOps+Platform+Engineer;Cloud+%7C+Automation+%7C+K8s;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A">
-</p>
+### 🌟 Highlights
+- 🔧 Expertise: DevOps, CI/CD, Kubernetes, Terraform, Ansible
+- 📈 Scaling & automating cloud infrastructure
+- 🏆 Open source contributions & community engagement
+- 📚 Sharing knowledge via Medium & YouTube
 
 ---
 
-### 🛠 Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-333?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-333?style=for-the-badge&logo=terraform&logoColor=623CE4)
-![Ansible](https://img.shields.io/badge/Ansible-333?style=for-the-badge&logo=ansible&logoColor=EE0000)
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairahmed992&theme=github_dark&show_icons=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairahmed992&layout=compact&theme=github_dark" height="180">
-</p>
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surhio)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/zupetek)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zupetek)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cloudways.zubair)
